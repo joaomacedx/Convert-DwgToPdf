@@ -1,0 +1,24 @@
+;BEGIN SCRIPT
+PLOT
+Y
+MODEL
+DWG To PDF.pc3
+ANSI A (11.00 x 8.50 Inches)
+Inches
+Landscape
+No
+Extents
+Fit
+Center
+Yes
+.
+Yes
+
+
+
+
+
+
+
+_quit
+;END SCRIPT

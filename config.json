@@ -1,0 +1,5 @@
+{
+  "input-files-path": ".\\input\\ExportPDF.csv",
+  "csv-delimiter": ";",
+  "dwg-true-view-exe-path": "C:\\Program Files\\Autodesk\\DWG TrueViewpath\\dwgviewr.exe"
+}
