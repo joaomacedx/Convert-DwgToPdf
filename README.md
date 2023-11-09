@@ -1,5 +1,10 @@
 # 🖨️ Convert-DwgToPdf 
 
+<div align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/Convert-DwgToPdfL?style=flat" >
+  <img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-blue">
+ </div>
+ 
 ## Overview
 
 Convert-DwgToPdf is a PowerShell script designed to automate the conversion of `.dwg` files to `.pdf`. It utilizes a CSV file containing essential information such as file paths, output directories, and file names for the conversion process. This script is compatible with PowerShell version 7 and above.
