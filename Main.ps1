@@ -33,7 +33,7 @@ try {
     foreach($dwg in $DWGdocuments) {
         if ($dwg."Plot Format" -eq 'A4') {
             Write-LogMessage "|  ----------------------- STARTING ---------------------   |"
-            Write-LogMessage "|  Starting $($dwg.Document) conversion in landscape plot format  |"
+            Write-LogMessage "|  Starting $($dwg.Document) conversion in portrait plot format  |"
             & $dwgTrueViewPath $dwg."Input Path" /b "$($currentLocation)/Modules/DWGTrueViewScripts/plot-portrait.scr"
             Start-Sleep -Seconds 40
             Stop-ProcessByName -processName 'dwgviewr'
