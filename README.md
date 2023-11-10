@@ -68,4 +68,4 @@ In case of errors during the conversion process, the script will display an erro
 
 | Document      | Plot Format | Output Name | Input Path                  | Output Path                |
 |---------------|-------------|-------------|-----------------------------|----------------------------|
-| Example.dwg   | A4          | Example     | C:\dwgs\Example.dwg         | C:\pdfs\Example.pdf        |
+| Example.dwg   | A4          | Example     | C:\dwgs\Example.dwg         | C:\pdfs\Example            |
