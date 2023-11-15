@@ -41,7 +41,7 @@ Convert-DwgToPdf is a PowerShell script designed to automate the conversion of `
 3. **Execute Script:**
    - Open a PowerShell terminal as an administrator.
    - Navigate to the project directory.
-   - Run the script using the command: `.\Main.psm1`
+   - Run the script using the command: `.\Main.ps1`
         ``` powershell
         PS Disk:\Convert-DwgToPdf> .\Main.ps1
       ```
